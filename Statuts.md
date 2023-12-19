@@ -12,7 +12,7 @@ Cette association a pour objet l'organisation d'évènements favorisant l'intera
 
 **ARTICLE 3 - SIÈGE SOCIAL**
 
-Le siège social est fixé à ...
+Le siège social est fixé au 3 rue des moulins, 27180, Aulnay-sur-Iton.
 
 **Article 4 - DUREE**
 
@@ -101,7 +101,7 @@ Les décisions des assemblées générales s’imposent à tous les membres, y c
 
 **ARTICLE 12 - ASSEMBLEE GENERALE EXTRAORDINAIRE**
 
-Si besoin est le président peut convoquer une assemblée générale extraordinaire, suivant les modalités prévues aux présents statuts, pour modification des statuts? la dissolution, ou tout autre action mentionnée dans la convocation.
+Si besoin est le président peut convoquer une assemblée générale extraordinaire, suivant les modalités prévues aux présents statuts, pour modification des statuts, la dissolution, ou tout autre action mentionnée dans la convocation.
 
 Les modalités de convocation sont les mêmes que pour l’assemblée générale ordinaire.
 
@@ -141,7 +141,7 @@ En cas de dissolution prononcée selon les modalités prévues à l’article 12
 
 ARTICLE 18 - REPRESENTATION LEGALE
 
-L'ensemble des membres du bureau sont habilités à représenter l'association, en tant que personne morale, vis-à-vis des tires. De fait, l'ensemble des membres du bureau a un droit de signature sur les documents de l'association.
+L'ensemble des membres du bureau sont habilités à représenter l'association, en tant que personne morale, vis-à-vis des tiers. De fait, l'ensemble des membres du bureau a un droit de signature sur les documents de l'association.
 
 
 « Fait à….., le…. 20.. »
